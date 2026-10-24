@@ -1,0 +1,5 @@
+lingo.db
+lingo.db-wal
+lingo.db-shm
+.env
+node_modules
